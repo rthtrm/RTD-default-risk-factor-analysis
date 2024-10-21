@@ -34,7 +34,7 @@ Effective data transformation and feature engineering enabled a robust analysis 
 ## How to Run the Notebook:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/[your-repo-url]
+   git clone https://github.com//rthtrm/RTD-default-risk-factor-analysis.git
 
 2. Install the required libraries:
    ```bash
@@ -46,4 +46,3 @@ Effective data transformation and feature engineering enabled a robust analysis 
 
 ## Contact
 For questions or feedback, feel free to reach out via LinkedIn.
-
