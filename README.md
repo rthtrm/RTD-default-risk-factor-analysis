@@ -23,7 +23,7 @@ EDA was performed to uncover patterns in loan default behavior. This involved vi
 - **GitHub** for version control
 
 ## Key Findings
-Despite initial data quality concerns, through thoughtful data processing and feature transformation, the analysis was able to provide key insights into the factors influencing loan defaults. ## Key Findings
+Despite initial data quality concerns, through thoughtful data processing and feature transformation, the analysis was able to provide key insights into the factors influencing loan defaults.
 
 Through effective data processing and feature transformation, the analysis revealed two major factors influencing loan defaults. The strongest predictor of loan default was found to be the number of children a borrower has, with the majority of default cases coming from individuals with three or more children. Additionally, the purpose of the loan played a significant role, as many defaults were linked to loans taken out for vehicle-related purposes, such as car repairs or purchases.
 
